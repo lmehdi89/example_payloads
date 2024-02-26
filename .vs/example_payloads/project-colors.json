@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2bcac13-0d42-4a57-bc04-3343607b9b3f": {
+      "ProjectGuid": "b2bcac13-0d42-4a57-bc04-3343607b9b3f",
+      "DisplayName": "example_payloads",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d25b3a5e-7d6a-407f-9c3b-5348d28b0c8a": {
+      "ProjectGuid": "d25b3a5e-7d6a-407f-9c3b-5348d28b0c8a",
+      "DisplayName": "TestExampleLoad",
+      "ColorIndex": 1
+    },
+    "a1007962-b8c8-407b-82a4-daaee73d09be": {
+      "ProjectGuid": "a1007962-b8c8-407b-82a4-daaee73d09be",
+      "DisplayName": "TestCalculator",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

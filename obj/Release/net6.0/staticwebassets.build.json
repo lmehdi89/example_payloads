@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mqy+actt7j9t7fxZSSsbtd4Ftesr29lrC+KhTlaZags=",
+  "Source": "example_payloads",
+  "BasePath": "_content/example_payloads",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

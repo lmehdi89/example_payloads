@@ -1,0 +1,14 @@
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\example_payloads.exe
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\appsettings.Development.json
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\appsettings.json
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\example_payloads.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\example_payloads.deps.json
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\example_payloads.runtimeconfig.json
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\example_payloads.pdb
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\nunit.framework.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\nunit.framework.legacy.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mehdi\source\repos\example_payloads\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
