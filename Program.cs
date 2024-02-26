@@ -22,14 +22,11 @@ builder.Services.AddScoped<IProductionPlanCalculator, ProductionPlanCalculator>(
 
 var app = builder.Build();
 
-//if (app.Environment.IsDevelopment())
-//{
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Your API Name V1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "example_payloads V1");
     });
-//}
 
 app.UseRouting();
 
