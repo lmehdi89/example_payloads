@@ -14,7 +14,7 @@ This API calculates the production plan for power plants based on the given payl
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/lmehdi/powerexample_payloads.git
+    git clone https://github.com/lmehdi89/example_payloads.git
     ```
 
 2. Navigate to the project directory:
