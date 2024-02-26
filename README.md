@@ -4,7 +4,7 @@ This API calculates the production plan for power plants based on the given payl
 
 ## Prerequisites
 
-- [.NET 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Docker](https://docs.docker.com/get-docker/)
 
 ## Build and Launch
